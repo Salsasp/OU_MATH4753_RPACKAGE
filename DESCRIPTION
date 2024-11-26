@@ -1,0 +1,16 @@
+Package: GeeStatsFall2024Package
+Type: Package
+Title: Statistics Fall 2024 Dakota Gee Package
+Version: 0.1.0
+Author: Dakota Gee
+Maintainer: Dakota Gee <Dakota.L.Gee-1@ou.edu>
+Description: Various functions created for coursework.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Depends: 
+    R (>= 2.10)
